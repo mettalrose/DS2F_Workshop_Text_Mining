@@ -1,6 +1,10 @@
 # DS2F_Workshop_Text_Mining
-These are materials for a workshop that I am conducting on text mining as part of the University of Arizona Libraries DS2F program.
 
+1. This resource was developed as part of the Workshop Series from the Digital Scholarship and Data Science Fellowship Program funded by the University Libraries at the University of Arizona. You can learn more about this program by clicking here: https://data.library.arizona.edu/data-science/ds2f
+ 
+2. I'm grateful to Jeffrey Oliver and Megan Senseney for their inspiring mentorship and well-scaffolded year long training program that helped me produce this resource. I'm also thankful to Jim Martin, Yvonne Mery, Leslie Sult, and Cheryl Casey for their insightful lectures on various aspects of data science, digital pedagogy, and open educatioanl resource production. 
+ 
+3. I'm especially thankfully to Prof. Charlie Gomez and his amazing class INFO 514: Computational Social Science at the University of Arizona. A lot of the content for this notebook, especially the introduction to Jupypter Notebooks as well as the markdown code for this notebook have been adapted, with permission, from his class notebooks. 
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
