@@ -1,4 +1,4 @@
-# DS2F_Workshop_Text_Mining
+# Coding_and_Decoding_A_tool_learn_text_mining_in_Python
 
 1. This resource was developed as part of the Workshop Series from the Digital Scholarship and Data Science Fellowship Program funded by the University Libraries at the University of Arizona. You can learn more about this program by clicking here: https://data.library.arizona.edu/data-science/ds2f
  
