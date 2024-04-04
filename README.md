@@ -1,6 +1,6 @@
 # Coding_and_Decoding_A_tool_learn_text_mining_in_Python
 
-1. This resource was developed as part of the Workshop Series from the Digital Scholarship and Data Science Fellowship Program funded by the University Libraries at the University of Arizona. You can learn more about this program by clicking here: https://data.library.arizona.edu/data-science/ds2f
+1. This resource was developed as part of the Workshop Series from the Digital Scholarship and Data Science Fellowship Program organised by the University of Arizona's University Libraries. You can learn more about this program by clicking here: https://data.library.arizona.edu/data-science/ds2f
  
 2. I'm grateful to Jeffrey Oliver and Megan Senseney for their inspiring mentorship and well-scaffolded year long training program that helped me produce this resource. I'm also thankful to Jim Martin, Yvonne Mery, Leslie Sult, and Cheryl Casey for their insightful lectures on various aspects of data science, digital pedagogy, and open educatioanl resource production. 
  
